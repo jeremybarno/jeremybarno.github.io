@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Barno;Jeremy;;;
+FN:Jeremy Barno
+ORG:Commit Consulting
+ADR;TYPE=WORK:14110 N Dallas Pkwy, Suite 100, Dallas, TX 75254
+TITLE:Workday Consultant & IT
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:+1502-512-2255
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:+1502-512-2255
+EMAIL;TYPE=WORK:
+URL;TYPE=Digital Business Card:https://jeremybarno.github.io/vcard/
+URL:https://www.commitconsulting.com
+URL;TYPE=Website:https://www.commitconsulting.com
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:We provide specialized knowledge and expertise across Human Resources and Finance
+UID:EnBizCard-100307147
+END:VCARD
